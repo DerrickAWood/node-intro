@@ -1,0 +1,15 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "node and express intro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Derrick",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
